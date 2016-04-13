@@ -1,5 +1,9 @@
 # VisualizationDesign
 
+LOCATION:
+http://students.washington.edu/borisp/info474/VisualizationDesign/main.js
+
+
 The three visualizations I chose were bar chart, scatterplot and angle graph. I
 believe these three graphs answer the questions posed by the rubric and by the
 data itself. Which drug was the most effective? Which drug is effective against
